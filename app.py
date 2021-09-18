@@ -1,3 +1,4 @@
+print("hola mundo")
 numero = int(input("pasame un numero:  "))
 
 
